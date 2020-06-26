@@ -100,7 +100,31 @@
    // console.log("j is equal to:" + j);
   //  }
 //
- while ( x < 10){
-    console.log('ran');
-    x = x + 1;
- }
+ //while ( x < 10){
+  //  console.log('ran');
+ //   x = x + 1;
+// }
+// objects, interfaces, and APIs
+
+///let dog= {
+   // name: "Steve",
+   // color:"brown",
+   // breed: "pug",
+   // size: "small",
+  //  bark: function (typeOfBark) {
+  //      console.log("Bark");
+   //     },
+//};
+//dog.bark();
+
+function x(y) {
+    y =y +5;
+    console.log(y);
+let y ={
+    name: "Tom",
+    num: 10,
+}
+};
+let y = 5;
+x(y);
+console.log(y);
